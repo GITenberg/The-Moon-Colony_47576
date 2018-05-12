@@ -1,10 +1,16 @@
 _repo: The-Moon-Colony_47576
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47576-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, William Dixon
     gutenberg_agent_id: '44381'
     url: http://www.gutenberg.org/2009/agents/44381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47576#The-Moon-Colony
 gutenberg_issued: '2014-12-07'
 gutenberg_type: Text
 identifiers:
